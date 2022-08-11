@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASM</string>
+
+    <string name="pref_file_key">pref_file_key</string>
+    <string name="pref_is_user_login">isuserlogin</string>
+    <string name="pref_name_of_user">name_of_user</string>
+</resources>
